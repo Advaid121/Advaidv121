@@ -3,81 +3,50 @@
 🌐 Website: [advaid.me](http://advaid.me) | 📞 Phone: +91 6282473426 | 📧 Email: advaidv@gmail.com
 📍 Location: Kannur, Kerala
 
-## Summary 📜
+🎓 I'm a **B. Tech Computer Science and Engineering (Hons)** student at Lovely Professional University, Phagwara, Punjab with a CGPA of 7.20.
 
-🚀 A motivated and enthusiastic Cyber Security and Computer Science student with a keen interest in data structures, algorithms, and automation. Possessing strong programming skills and an aptitude for logical thinking and innovation, I am eager to take on challenging programming environments and solve complex problems. Eager to leverage my abilities in a dynamic team setting, I am actively seeking opportunities to learn from experienced professionals and contribute my innovative solutions to the industry.
+🔭 I'm currently working on various projects related to cybersecurity, networking, and automation.
 
-## Education 🎓
+## 🚀 Power Skills
 
-- **B.Tech Computer Science and Engineering**
-  - Lovely Professional University
-  - CGPA: 7.20 | Graduation: Dec 2024
-  - Punjab, India
+- Effective communication skills
+- Quick learner
+- Strong problem-solving abilities
+- Analytical and innovative mindset
+- Team Player
 
-- **12th Grade (CBSE)**
-  - SN Vidhya Mandir
-  - Aggregate: 78.4 | Graduation: July 2020
-  - Kerala, India
+## 💻 Technical Skills
 
-- **10th Grade (ICSE)**
-  - St. Francis English Medium School
-  - Aggregate: 82.4 | Graduation: July 2018
-  - Kerala, India
+- Programming Language: Python, Java, C++, HTML , CSS
+- Database Management: MySQL
+- Operating System: Windows, Kali Linux, Red hat, Parrot OS
+- Cyber Security: Metasploit, Burp Suite, Nmap, Wireshark, ZAP, Splunk , Qradar , AlienVault, Nessus.
+- Automation Tools: Automation Anywhere, Blue Prism, Selenium
+- Cloud and virtualization: AWS , Docker , VirtualBox, VMware, Vagrant , Microsoft Azure
 
-## Technical Skills 💻
+## 🎖 Certifications
 
-- **Programming Languages:** Python, Java, C++, Bash Scripting
-- **Database Management:** MySQL
-- **Cloud and Virtualization:** Vagrant, AWS, Azure, Apache2, WordPress
-- **MERN Stack:** MongoDB, Express.js, React, Node.js
-- **Cyber Security:** Metasploit, Burp Suite, Nmap, Wireshark
-- **Automation Tools:** Automation Anywhere, Blue Prism, UI Path, Selenium
-- **Problem Solving, Communication Skills, Analytical Thinking, Team Collaboration, Time Management, Creativity**
+- Complete Ethical Hacking Bootcamp | Udemy | 2023
+- Certified Ethical Hacker V11 (CEH) | Ec-Council | 2022
+- Advanced Data Structure and Algorithm | Extellon | 2022
+- RedHat System Administration (RH124) | 2022
+- Web Security & Bug Bounty | Udemy | 2021
 
-## Summer Training ☀️
+## 📚 Education
 
-**EXTELLON | Advanced Data Structure and Algorithm**
-- May 2022 - June 2022
-- Learned in-depth about Data structure and algorithm.
-- Gained more knowledge in programming and the concept of time and space complexity and Python skills.
+- B. Tech Computer Science and Engineering (Hons) | Lovely Professional University, Phagwara, Punjab | CGPA: 7.20 (2020-2024)
+- Higher Secondary School (CBSE) | SN Vidhya Mandir , Kannur, Kerala | Percentage: 78.4 % (2019-2020)
+- Secondary School (CBSE) | St. Francis English Medium School , Kannur, Kerala | Percentage: 82.4 % (2017-2018)
 
-## Projects 🚀
+## 🛠 Projects
 
-1. **Automatic Currency Converter | Python Selenium**
-   - Oct 2022 – Nov 2022
-   - Developed a software using Python to manage university data
-   - Utilized Tkinter for GUI development
-   - Implemented features for Attendance, Results, and details
+1. **Backdoor and server** (June 2023): Developed a python script for a backdoor and server.
+2. **Keylogger** (April 2022): Developed a Windows keylogging project in Python.
+3. **University management system** (March 2023): Developed a software using Python to manage university details.
+4. **Automatic Currency Converter** (February 2022): Designed an automated bot using Selenium and Python.
 
-2. **Keylogger | Python**
-   - Mar 2022 – Jul 2022
-   - Developed a Windows keylogging project in Python
-   - Bypassed firewall and IDS with innovative code
-   - Utilized packages: win32api, win32console, win32gui, pythoncom, pyHook
+## 🌐 Contact Me
 
-3. **Automatic Currency Converter | Automation Anywhere**
-   - Jan 2022 – Jul 2022
-   - Designed an automated bot using Selenium and Python
-   - Converts user-input values to desired currencies in real time
+You can reach me at advaidv@gmail.com or on my mobile at +91 6282473426.
 
-## Skills & Qualifications 🛠️
-
-- Knowledge of software design concepts.
-- Web app penetration testing skills through training at Burp Suite Academy.
-- Proficient in ethical hacking techniques and tools.
-- Strong understanding of network protocols, web application technologies, firewalls, and VPN.
-
-## Certifications 📜
-
-- **Complete Ethical Hacking Bootcamp**
-  - Udemy | 2023
-
-- **Certified Ethical Hacker V11 (CEH)**
-  - Ec-Council | 2022
-
-- **Red Hat System Administration RH124**
-  - 2022
-
-- **Web Security & Bug Bounty**
-  - Udemy | 2021
 
