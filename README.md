@@ -20,9 +20,10 @@
 - Programming Language: Python, Java, C++, HTML , CSS
 - Database Management: MySQL
 - Operating System: Windows, Kali Linux, Red hat, Parrot OS
+- DevOps tools: Vagrant , juggins
 - Cyber Security: Metasploit, Burp Suite, Nmap, Wireshark, ZAP, Splunk , Qradar , AlienVault, Nessus.
 - Automation Tools: Automation Anywhere, Blue Prism, Selenium
-- Cloud and virtualization: AWS , Docker , VirtualBox, VMware, Vagrant , Microsoft Azure
+- Cloud and virtualization: AWS , Docker , VirtualBox, VMware , Microsoft Azure , Kubernetes
 
 ## 🎖 Certifications
 
