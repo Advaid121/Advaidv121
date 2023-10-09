@@ -45,8 +45,6 @@
 3. **University management system** (March 2023): Developed a software using Python to manage university details.
 4. **Automatic Currency Converter** (February 2022): Designed an automated bot using Selenium and Python.
 
-## 🌐 Contact Me
 
-You can reach me at advaidv@gmail.com or on my mobile at +91 6282473426.
 
 
